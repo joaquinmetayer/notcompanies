@@ -255,12 +255,6 @@ li div {
   color: #fff;
   transition: 0.5s;
 }
-.five-one:hover,
-.five-two:hover,
-.five-three:hover {
-  filter: grayscale(1);
-  transition: 0.5s;
-}
 a p {
   width: 100%;
   font-family: TR;
@@ -268,17 +262,17 @@ a p {
   padding-left: 5px;
 }
 .five-one {
-  background-image: url("../img/homermkt.gif");
+  background-image: url("../img/nmkt-degrades.png");
   background-position: center;
   background-size: cover;
 }
 .five-two {
-  background-image: url("../img/coding.gif");
+  background-image: url("../img/ncode-degrades.png");
   background-position: center;
   background-size: cover;
 }
 .five-three {
-  background-image: url("../img/agencymilf.gif");
+  background-image: url("../img/nagency-degrades.png");
   background-position: center;
   background-size: cover;
 }
