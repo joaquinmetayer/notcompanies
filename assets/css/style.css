@@ -147,7 +147,6 @@ li div {
 
 .container-five {
   cursor: pointer;
-  text-shadow: 20px 20px 50px #000000;
   color: #fff;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
